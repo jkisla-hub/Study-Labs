@@ -1,0 +1,6 @@
+{
+  "name": "Study Labs - 프리미엄 수학학원",
+  "description": "체계적인 학생 관리와 실시간 수업 예약 시스템을 갖춘 대치·목동 프리미엄 수학 전문 학원 Study Labs",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
